@@ -17,7 +17,7 @@
 
 === Reference Material
 
-.Links for Project Resources
+.Reference Material
 [options="header,footer"]
 |=======================
 |Resource|Link
