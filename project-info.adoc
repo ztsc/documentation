@@ -14,3 +14,17 @@
 |GitHub org| https://github.com/ztsc
 |Box folder| https://ibm.ent.box.com/folder/140267885718
 |=======================
+
+=== Reference Material
+
+.Links for Project Resources
+[options="header,footer"]
+|=======================
+|Resource|Link
+|Sigstore website| https://sigstore.dev/
+|Sigstore github| https://github.com/sigstore
+|Dan Lornc video on Sigstore tools and cosign tool | https://www.youtube.com/watch?v=gCi9_4NYyR0
+|OCB: Secure your Open Source Supply Chain with Sigstore (Bob Callaway and Ivan Font | https://www.youtube.com/watch?v=yKrbUGSwrEw
+|CNCF Security TAG Supply Chain WG 2021-06-10 | https://www.youtube.com/watch?v=TVNyL2_ljtg
+|Good Tekton tutorial | https://redhat-scholars.github.io/tekton-tutorial/tekton-tutorial/index.html
+|=======================
