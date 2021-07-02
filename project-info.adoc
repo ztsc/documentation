@@ -27,4 +27,5 @@
 |OCB: Secure your Open Source Supply Chain with Sigstore (Bob Callaway and Ivan Font | https://www.youtube.com/watch?v=yKrbUGSwrEw
 |CNCF Security TAG Supply Chain WG 2021-06-10 | https://www.youtube.com/watch?v=TVNyL2_ljtg
 |Good Tekton tutorial | https://redhat-scholars.github.io/tekton-tutorial/tekton-tutorial/index.html
+|Blog by Dan Lorenc on OCI Artifacts | https://dlorenc.medium.com/oci-artifacts-explained-8f4a77945c13
 |=======================
