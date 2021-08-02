@@ -1,0 +1,3 @@
+# Generate a key pair and store a secret named cosign-keys in namespace dev
+
+cosign generate-key-pair -k8s dev/cosign-keys
